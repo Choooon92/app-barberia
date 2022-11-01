@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["iniciarApp","console","log","document","addEventListener"],"mappings":"AAIA,SAAAA,aACAC,QAAAC,IAAA,iBALAC,SAAAC,iBAAA,oBAAA,WACAJ","file":"bundle.js","sourcesContent":["document.addEventListener('DOMContentLoaded', function() {\r\n    iniciarApp();\r\n});\r\n\r\nfunction iniciarApp() {\r\n    console.log('iniciando app');\r\n}"]}
